@@ -11,4 +11,4 @@ upReveal.js is licensed under [The MIT License (MIT)](http://opensource.org/lice
 <br/>Copyright (c) 2015 uplaod
 
 This license is also supplied with the release and source code.
-<br/>As stated in the license, absolutely no warranty is provided.# upReveal.js
+<br/>As stated in the license, absolutely no warranty is provided.
