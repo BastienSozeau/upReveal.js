@@ -1,0 +1,22 @@
+{
+  "name": "upreveal",
+  "version": "1.0.0",
+  "description": "upReveal.js make the images reveal by the motion of your mouse hover them!",
+  "main": "upReveal.min.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uplaod/upReveal.js.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "uplaod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uplaod/upReveal.js/issues"
+  },
+  "homepage": "https://github.com/uplaod/upReveal.js"
+}
