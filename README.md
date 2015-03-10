@@ -1,7 +1,7 @@
 # upReveal
 
-> upReveal.js make the images reveal by the motion of your mouse hover them!
-This <a href="http://jsfiddle.net/bsozoo/qqqbq37x/embedded/result/">demo</a> show you the upReveal effect.
+upReveal.js make the images reveal by the motion of your mouse over them!
+This <a href="http://jsfiddle.net/bsozoo/qqqbq37x/embedded/result/">demo</a> shows you the upReveal effect.
 
 Visit http://uplaod.fr/upgit/upreveal/
 
